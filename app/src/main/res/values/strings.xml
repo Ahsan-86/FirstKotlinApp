@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">New Application</string>
+    <string name="app_name">Dice Roller</string>
     <string name="roll_label">Roll</string>
     <string name="count_up">Count Up</string>
     <string name="reset">Reset</string>
